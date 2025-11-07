@@ -40,16 +40,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-Here are some of my GitHub projects:
-
-- [Project 1](https://github.com/p-delfani/project1)  
-- [Project 2](https://github.com/p-delfani/project2)  
-- [Project 3](https://github.com/p-delfani/project3)  
-*(Replace links with your actual repositories)*
-
----
 
 ## 📊 GitHub Stats
 
