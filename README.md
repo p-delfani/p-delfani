@@ -42,21 +42,12 @@
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/p-delfani/your-project-link" target="_blank">
-    <img src="https://raw.githubusercontent.com/p-delfani/p-delfani/main/assets/project1.png" alt="Project 1" width="250">
-  </a>
-  <a href="https://github.com/p-delfani/your-project-link" target="_blank">
-    <img src="https://raw.githubusercontent.com/p-delfani/p-delfani/main/assets/project2.png" alt="Project 2" width="250">
-  </a>
-  <a href="https://github.com/p-delfani/your-project-link" target="_blank">
-    <img src="https://raw.githubusercontent.com/p-delfani/p-delfani/main/assets/project3.png" alt="Project 3" width="250">
-  </a>
-</p>
+Here are some of my GitHub projects:
 
-<p align="center">
-  <b>Click images to view projects on GitHub</b>
-</p>
+- [Project 1](https://github.com/p-delfani/project1)  
+- [Project 2](https://github.com/p-delfani/project2)  
+- [Project 3](https://github.com/p-delfani/project3)  
+*(Replace links with your actual repositories)*
 
 ---
 
