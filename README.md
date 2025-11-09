@@ -49,20 +49,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-delfani&hide_border=true&layout=compact&theme=radical" />
 </p>
 
----
 
-## ⚡ Fun Section
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/p-delfani/p-delfani/main/assets/animation.gif" alt="Fun Animation" width="300">
-</p>
-
-<p align="center">
-  When I'm not coding, I love exploring <b>UI/UX trends</b>, building <b>mini side projects</b>, and experimenting with <b>animations & micro-interactions</b> 💻✨
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <b>Parmis Delfani</b>
-</p>
