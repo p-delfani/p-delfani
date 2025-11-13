@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#FF6F61;">Parmis Delfani</span></h1>
-<h3 align="center">Front-End Developer | React & JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer Intern | Interested in React and JavaScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parmis-delfani" target="_blank">
