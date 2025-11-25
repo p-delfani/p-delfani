@@ -42,10 +42,5 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-delfani&show_icons=true&hide_border=true&theme=radical" />
-</p>
 
 
