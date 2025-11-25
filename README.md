@@ -46,7 +46,6 @@
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-delfani&show_icons=true&hide_border=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-delfani&hide_border=true&layout=compact&theme=radical" />
 </p>
 
 
